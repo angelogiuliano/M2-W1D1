@@ -1,0 +1,3 @@
+// 1. Un algoritmo è un insieme di comandi da eseguire. Un esempio di algoritmo puô essere una ricetta per cucinare uno specifico piatto.
+// 2. Una variabile è definibile come un contenitore alla quale possiamo dare un nome a nostro piacimento (circa). Le variabili possono contenere diversi tipi di valori, tra cui numeri e stringhe.
+// 3. undefined si riferisce al valore di una variabile dichiarata ma senza un valore definito, mentre null significa letteralmente 'assenza di valore'.
